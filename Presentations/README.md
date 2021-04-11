@@ -1,4 +1,4 @@
-# Reports
+# Presentations
 
 This folder contains Mid-semester and End-Semester Presentations for the CSE-523 Machine Learning Project. 
 
