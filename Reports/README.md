@@ -4,11 +4,12 @@ This folder contains Mid-semester and End-Semester Reports for the CSE-523 Machi
 
 # Folder Structure
 
+```
 End-Sem
   |-HardlyHumans_End_Sem_Project_Report.pdf
 Mid-Sem
   |-HardlyHumans_Mid_Sem_Project_Report.pdf
-  
+```
   
 # Mid Semester Report
 
